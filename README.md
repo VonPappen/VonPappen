@@ -2,7 +2,7 @@ Hello! My name is Paul Marmagne. I'm a self-taught full stack web developer and 
 
 My preferred programing languages are JavaScript and Python, but I would love to learn other programing languages.
 
-I'm a passionate about creating beautiful user Interface and building APIs
+I'm a passionate about creating beautiful user Interface and coherent APIs
 
 Some of the technologies I use:
 
