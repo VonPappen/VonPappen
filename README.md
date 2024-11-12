@@ -1,8 +1,10 @@
-Hello! My name is Paul Marmagne. I'm a self-taught full stack web developer and I have been coding since 2018. 
+Hello! 👋 My name is Paul Marmagne.
 
-My preferred programing languages are JavaScript and Python, but I would love to learn other programing languages.
+I'm a self-taught web developer.
 
-I'm a passionate about creating beautiful user Interface and coherent APIs
+My coding journey began in 2018 when a little algorithmic trading platform called Quantopian sparked my interest. 
+
+My preferred programing languages are JavaScript and Python, but I'm always eager to learn new technologies!
 
 Some of the technologies I use:
 
